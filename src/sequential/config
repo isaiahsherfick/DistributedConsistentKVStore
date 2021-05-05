@@ -1,0 +1,6 @@
+consistency=eventual
+num_clients=2
+num_servers=20
+first_server_port=65432
+top_level_controller_port=65431
+top_level_controller_host=127.0.0.1

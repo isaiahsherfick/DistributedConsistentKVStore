@@ -1,3 +1,7 @@
+My attempt at a distributed KV store with multiple different consistency models
+
+
+
 files:
 	src/eventual
 		client_eventual.py: the client
